@@ -1,4 +1,7 @@
-.banner{
+
+.Banner {
+    text-align: center;
+    font-weight: bold;
     background-color: rgb(6, 52, 138);
     color: rgb(226, 226, 226);
     padding: 1px;

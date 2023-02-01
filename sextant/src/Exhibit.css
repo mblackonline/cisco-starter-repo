@@ -1,0 +1,32 @@
+.Exhibit {
+margin: 20px;
+text-align: center;
+background-color: rgb(212, 212, 212);
+padding: 4px;
+border: 0.25vw solid #000000;
+border-radius: 2vw;
+display: block;
+width: fit-content;
+}
+
+.ExhibitContent {
+display: block;
+min-width: auto;
+min-height: auto;
+flex-grow: 1;
+flex-shrink: 1;
+margin: 0.5vw;
+padding: 1vw 1vw 1vw 1vw;
+text-align: center;
+font-weight: bold;
+font-size: 1.75vw;
+color: #002933;
+background-color: #ffffff;
+border: 0.25vw solid #000000;
+border-radius: 2vw;
+}
+
+.ExhibitHeading {
+font-weight: bold;
+font-size: 1.75vw;
+}
